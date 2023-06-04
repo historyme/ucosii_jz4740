@@ -1,0 +1,62 @@
+timer.lo timer.o: timer.c config.h global.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/stdio.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/features.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/cdefs.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/gnu/stubs.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/stddef.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/types.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/wordsize.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/typesizes.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/libio.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/_G_config.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/wchar.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/wchar.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/gconv.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/stdarg.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/stdio_lim.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/sys_errlist.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/stdio.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/assert.h \
+  timer.h
+
+config.h:
+
+global.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/stdio.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/features.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/cdefs.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/gnu/stubs.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/stddef.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/types.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/wordsize.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/typesizes.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/libio.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/_G_config.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/wchar.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/wchar.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/gconv.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/stdarg.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/stdio_lim.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/sys_errlist.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/stdio.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/assert.h:
+
+timer.h:

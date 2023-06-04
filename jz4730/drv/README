@@ -1,0 +1,3 @@
+Pick up your wanted device drivers, copy it to upper directory. And add the
+relative init routine in Platform initialization code.
+

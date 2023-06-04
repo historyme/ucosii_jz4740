@@ -1,0 +1,21 @@
+This directory contains codes to boot JZ4730 from the NAND flash.
+
+The nandboot code size is up to 4KB according to the JZ4730 NAND boot
+specification.
+
+The source files are listed below:
+
+config.h: header file of the system configuration.
+jz4730.h: registers definition of the JZ4730 CPU.
+board-xxx.h: board definition.
+nand.h: standard NAND definition.
+
+head.S: entry code of the boot loader.
+loader.c: code to load kernel image.
+jz4730.c: jz4730 common routines.
+serial.c: serial console routines.
+board-xxx.c: board initialization code.
+Makefile: makefile of the boot loader.
+target.ld: linker script of the boot loader.
+
+To build the boot loader, type 'make' in this directory.

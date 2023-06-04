@@ -1,0 +1,72 @@
+latin1.lo latin1.o: latin1.c config.h global.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/stdlib.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/features.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/cdefs.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/gnu/stubs.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/stddef.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/types.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/types.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/wordsize.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/typesizes.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/time.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/endian.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/endian.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/select.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/select.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/sigset.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/time.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/sysmacros.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/pthreadtypes.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/sched.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/alloca.h \
+  id3tag.h latin1.h ucs4.h
+
+config.h:
+
+global.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/stdlib.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/features.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/cdefs.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/gnu/stubs.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/stddef.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/types.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/types.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/wordsize.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/typesizes.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/time.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/endian.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/endian.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/select.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/select.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/sigset.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/time.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/sysmacros.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/pthreadtypes.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/sched.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/alloca.h:
+
+id3tag.h:
+
+latin1.h:
+
+ucs4.h:

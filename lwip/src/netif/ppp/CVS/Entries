@@ -1,0 +1,27 @@
+/auth.c/1.1/Tue May  8 03:57:37 2007//
+/auth.h/1.1/Tue May  8 03:57:37 2007//
+/chap.c/1.1/Tue May  8 03:57:37 2007//
+/chap.h/1.1/Tue May  8 03:57:37 2007//
+/chpms.c/1.1/Tue May  8 03:57:37 2007//
+/chpms.h/1.1/Tue May  8 03:57:37 2007//
+/fsm.c/1.1/Tue May  8 03:57:37 2007//
+/fsm.h/1.1/Tue May  8 03:57:37 2007//
+/ipcp.c/1.1/Tue May  8 03:57:37 2007//
+/ipcp.h/1.1/Tue May  8 03:57:37 2007//
+/lcp.c/1.1/Tue May  8 03:57:37 2007//
+/lcp.h/1.1/Tue May  8 03:57:37 2007//
+/magic.c/1.1/Tue May  8 03:57:37 2007//
+/magic.h/1.1/Tue May  8 03:57:37 2007//
+/md5.c/1.1/Tue May  8 03:57:37 2007//
+/md5.h/1.1/Tue May  8 03:57:37 2007//
+/pap.c/1.1/Tue May  8 03:57:37 2007//
+/pap.h/1.1/Tue May  8 03:57:37 2007//
+/ppp.c/1.1/Tue May  8 03:57:37 2007//
+/ppp.h/1.1/Tue May  8 03:57:37 2007//
+/pppdebug.h/1.1/Tue May  8 03:57:37 2007//
+/randm.c/1.1/Tue May  8 03:57:37 2007//
+/randm.h/1.1/Tue May  8 03:57:37 2007//
+/vj.c/1.1/Tue May  8 03:57:37 2007//
+/vj.h/1.1/Tue May  8 03:57:37 2007//
+/vjbsdhdr.h/1.1/Tue May  8 03:57:37 2007//
+D

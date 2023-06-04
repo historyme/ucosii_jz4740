@@ -1,0 +1,25 @@
+/CCGUIMemDev.bat/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_1.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_16.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_8.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_AA.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_Auto.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_Banding.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_Clear.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_CmpWithLCD.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_CopyFromLCD.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_CreateFixed.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_GetDataPtr.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_GetXSize.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_GetYSize.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_Measure.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_ReduceYSize.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_SetOrg.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_Usage.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_UsageBM.c/1.1.1.1/Fri Nov 23 05:38:40 2007//
+/GUIDEV_Write.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_WriteAlpha.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_WriteEx.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+/GUIDEV_XY2PTR.c/1.1.1.1/Fri Nov 23 05:38:39 2007//
+D

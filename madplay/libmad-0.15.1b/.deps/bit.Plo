@@ -1,0 +1,38 @@
+bit.lo bit.o: bit.c config.h global.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/limits.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/syslimits.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/limits.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/features.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/cdefs.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/gnu/stubs.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/posix1_lim.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/local_lim.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/linux/limits.h \
+  /stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/posix2_lim.h \
+  bit.h
+
+config.h:
+
+global.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/limits.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/lib/gcc-lib/mipsel-linux/3.3.1/include/syslimits.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/limits.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/features.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/sys/cdefs.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/gnu/stubs.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/posix1_lim.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/local_lim.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/linux/limits.h:
+
+/stdev/development/toolchain/mips/mipseltools-20060308/mipsel-linux/include/bits/posix2_lim.h:
+
+bit.h:
